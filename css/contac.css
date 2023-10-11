@@ -1,0 +1,35 @@
+body{
+    background-image: url("../img/natural-history-museum-2203648_1280.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.ca{
+    padding-left: 40px;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.calen{
+    background-image: url("../img/calendario.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 850px;
+    width: 800px;
+
+}
+footer{
+    margin-top: 10px;
+    color: aliceblue;
+}
+.flo{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 10px;
+}
+h2{
+    font-size: 30px;
+}
